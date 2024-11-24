@@ -2,7 +2,7 @@
 
 import os
 from dataclasses import dataclass, field
-from akshara import varnakaarya as vk
+import varnakaarya as vk
 
 
 @dataclass
