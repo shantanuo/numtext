@@ -2,7 +2,7 @@
 
 import sys
 
-from akshara.varna import Varnamaalaa
+from varna import Varnamaalaa
 
 vn = Varnamaalaa()
 
